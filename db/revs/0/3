@@ -1,0 +1,67 @@
+PLAIN
+K 10
+.classpath
+V 17
+file 0-1.0.r2/164
+K 8
+.project
+V 21
+file 3-1.0.r1/2498143
+K 19
+AndroidManifest.xml
+V 21
+file 5-1.0.r1/2498317
+K 6
+assets
+V 20
+dir 8-1.0.r1/2498581
+K 3
+bin
+V 20
+dir 9-1.0.r1/2518252
+K 3
+gen
+V 21
+dir 3z-1.0.r1/2520774
+K 19
+ic_launcher-web.png
+V 22
+file 4n-1.0.r1/2520896
+K 4
+libs
+V 21
+dir 4p-1.0.r1/2521481
+K 8
+lint.xml
+V 22
+file 4t-1.0.r1/2521604
+K 20
+proguard-project.txt
+V 22
+file 4v-1.0.r1/2521782
+K 18
+project.properties
+V 22
+file 4x-1.0.r1/2521974
+K 3
+res
+V 21
+dir 4z-1.0.r1/2526813
+K 3
+src
+V 18
+dir 64-1.0.r2/1312
+END
+ENDREP
+id: 0.0.r3/557
+type: dir
+pred: 0.0.r2/2055
+count: 3
+text: 3 0 544 0 61a2887fbb8157f4c49cde157b166e08
+cpath: /
+copyroot: 0 /
+
+7-1.0.r1/2498503 delete-dir false false /Flashlight_SVN
+
+
+557 682
